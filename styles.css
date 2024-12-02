@@ -161,7 +161,7 @@ header::before {
   align-items: center;
 }
 
-.why__image img {
+.why__image  {
   max-width: 600px;
   margin: auto;
 }
